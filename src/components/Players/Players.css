@@ -1,0 +1,10 @@
+.player-detail{
+    width: 70%;
+}
+.players{
+    display:flex;
+}
+.player-cart{
+    margin:0 auto;
+    width:30%;
+}
